@@ -73,7 +73,7 @@ FIFA-WC-2026-Prediction/
 
 ```bash
 # Clone the repository
-git clone https://github.com/omkarpatilop-123/Football-WC-2026-Prediction
+git clone https://github.com/OmkarPatilML/Football-WC-2026-Prediction
 
 # Install dependencies
 pip install pandas numpy scikit-learn matplotlib seaborn
@@ -95,9 +95,8 @@ jupyter notebook FIFA_World_Cup_2026_prediction.ipynb
 ## 👤 Author
 
 **Omkar Patil**
-- GitHub: https://github.com/OmkarPatilML
-- LinkedIn: linkedin.com/in/omkarpatilml
-
+- 🐙 GitHub: [OmkarPatilML](https://github.com/OmkarPatilML)
+- 💼 LinkedIn: [Omkar Patil](https://www.linkedin.com/in/omkarpatilml)
 ---
 
 ## 📄 License
